@@ -1,5 +1,6 @@
 # RL-Semiar
-# 주로 RL을 공부하고 필요에 따라 다른 Deep Learning 부분도 공부합니다.
+- Reinforcement Learning 공부
+- Deep Learning 및 Machine Learning 공부
 ---
 
 # 규칙
