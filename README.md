@@ -11,3 +11,7 @@
 
 ## 2 주차 : 모두의 Deep RL + Open AI Spinning Up
 - 김기환 : Deep Q-Learning, 이충기 : DQN, 손재만 : Basic Concept #2 한윤하 : Kinds of RL Algorithms, 양홍준 : Basic Concept #1
+
+## 3 주차 : Open AI Spinning Up +  RL 보충 자료
+- 김기환 : Dynamic Programming, 이충기 : Temporal Difference, 손재만 : Monte-Carlo Learning, 한윤하 : Model-based vs Model-free, 양홍준 : Fundamental of Reinforcement learning
+#### reference : https://dnddnjs.gitbooks.io/rl/content/index.html
