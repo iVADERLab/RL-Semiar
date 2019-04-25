@@ -1,6 +1,6 @@
 # RL-Semiar
 - Reinforcement Learning 공부
-- Deep Learning 및 Machine Learning 공부
+- Inverse Reinforcement Learning 공부
 
 # 규칙
 1. PPT Template 통일 
