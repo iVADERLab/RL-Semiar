@@ -35,5 +35,5 @@
 
 ## 5 주차: Inverse Reinforcement Learning 논문 읽기 #2
 - 김기환: Apprenticeship Learning via Inverse Reinforcement Learning (NIPS'04)
-- 이충기: Maximum Causal Entropy Inverse Reinforcement Learning ([Brian Ziebart's PhD thesis, 2010][http://www.cs.cmu.edu/~bziebart/publications/thesis-bziebart.pdf])
+- 이충기: Maximum Causal Entropy Inverse Reinforcement Learning ([Brian Ziebart's PhD thesis, 2010](http://www.cs.cmu.edu/~bziebart/publications/thesis-bziebart.pdf)
 #### reference: https://reinforcement-learning-kr.github.io/2019/01/22/0_lets-do-irl-guide/
